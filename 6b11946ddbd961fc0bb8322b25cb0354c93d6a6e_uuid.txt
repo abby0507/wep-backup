@@ -1,4 +1,4 @@
 GVT-workflow_rename;Y;xxx
-create-GVT-ER;Y;
+create-GVT-ER;Y;xxx
 GVT_instructions;Y;
 enable-test-area;Y;
